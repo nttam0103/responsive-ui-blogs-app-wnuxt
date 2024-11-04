@@ -5,7 +5,7 @@
   >
     <h1 class="text-7xl font-bold mb-6">Home Page</h1>
     <p class="text-lg max-w-2xl leading-relaxed mb-4">
-      Welcome !  Discover our range of services designed to make
+      Welcome  our !  Discover our range of services designed to make
       your experience seamless and enjoyable.
     </p>
 
